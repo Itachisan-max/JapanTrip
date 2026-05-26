@@ -10,7 +10,7 @@
 
 1. Hai già creato il repository GitHub (es: `Japan-Trip-2026`)
 2. Scarica TUTTI i file di questa cartella
-3. Caricali sul repository:
+3. Caricali sul repository: D
    - Drag & drop tutti i file su GitHub
    - Oppure usa Git da terminale (vedi sotto)
 
